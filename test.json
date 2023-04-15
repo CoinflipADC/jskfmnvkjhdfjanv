@@ -39,6 +39,6 @@
       "Address": 49378568,
       "Name": "ConVar.Client_TypeInfo",
       "Signature": "ConVar_Client_c*"
-    },
+    }
 ]
 }
