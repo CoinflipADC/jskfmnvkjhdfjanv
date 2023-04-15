@@ -3,42 +3,42 @@
    {
       "Address": 49565768,
       "Name": "System.Collections.Generic.List<BaseGameMode>_TypeInfo",
-      "Signature": "System_Collections_Generic_List_BaseGameMode__c*"
+      "Signature": "1"
     },
     {
       "Address": 49315088,
       "Name": "BaseNetworkable_TypeInfo",
-      "Signature": "BaseNetworkable_c*"
+      "Signature": "2"
     },
     {
       "Address": 49769848,
       "Name": "OcclusionCulling_TypeInfo",
-      "Signature": "OcclusionCulling_c*"
+      "Signature": "3"
     },
     {
       "Address": 49410368,
       "Name": "ConVar.Culling_TypeInfo",
-      "Signature": "ConVar_Culling_c*"
+      "Signature": "4"
     },
     {
       "Address": 49470544,
       "Name": "TOD_Sky_TypeInfo",
-      "Signature": "TOD_Sky_c*"
+      "Signature": "5"
     },
     {
       "Address": 49538992,
       "Name": "ConVar.Graphics_TypeInfo",
-      "Signature": "ConVar_Graphics_c*"
+      "Signature": "6"
     },
     {
       "Address": 49831816,
       "Name": "ConVar.Admin_TypeInfo",
-      "Signature": "ConVar_Admin_c*"
+      "Signature": "7"
     },
     {
       "Address": 49378568,
       "Name": "ConVar.Client_TypeInfo",
-      "Signature": "ConVar_Client_c*"
+      "Signature": "8"
     }
 ]
 }
