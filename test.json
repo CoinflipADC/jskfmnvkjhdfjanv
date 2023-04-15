@@ -2,42 +2,34 @@
 "ScriptMetadata": [
    {
       "Address": 49565768,
-      "Name": "System.Collections.Generic.List<BaseGameMode>_TypeInfo",
       "Signature": "1"
     },
     {
       "Address": 49315088,
-      "Name": "BaseNetworkable_TypeInfo",
       "Signature": "2"
     },
     {
       "Address": 49769848,
-      "Name": "OcclusionCulling_TypeInfo",
       "Signature": "3"
     },
     {
       "Address": 49410368,
-      "Name": "ConVar.Culling_TypeInfo",
       "Signature": "4"
     },
     {
       "Address": 49470544,
-      "Name": "TOD_Sky_TypeInfo",
       "Signature": "5"
     },
     {
       "Address": 49538992,
-      "Name": "ConVar.Graphics_TypeInfo",
       "Signature": "6"
     },
     {
       "Address": 49831816,
-      "Name": "ConVar.Admin_TypeInfo",
       "Signature": "7"
     },
     {
       "Address": 49378568,
-      "Name": "ConVar.Client_TypeInfo",
       "Signature": "8"
     }
 ]
