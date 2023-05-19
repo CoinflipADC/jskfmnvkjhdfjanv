@@ -2,11 +2,23 @@
 "ScriptMetadata": [
     {
       "Address": 49628072,
-      "Signature": "2"
+      "Signature": "1"
     },
     {
       "Address": 49723216,
-      "Signature": "4"
+      "Signature": "2"
     },
+    {
+  "Address": 131072,
+  "Signature": "3"
+},
+    {
+  "Address": 2048,
+  "Signature": "4"
+},
+    {
+  "Address": 133120,
+  "Signature": "5"
+},
 ]
 }
