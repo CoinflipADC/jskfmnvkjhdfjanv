@@ -32,18 +32,17 @@
       "Address": 49817960,
       "Signature": "8"
     },
-    {
-      "Address": 49817960,
-      "Signature": "oname"
-    },
-    {
-      "Address": 49817960,
-      "Signature": "allowrun"
-     },
-     {
-      "Address": 49817960,
-      "Signature": "pflgs"
-      }		
+  {
+    "Address": 0x10,
+    "Signature": "oname"
+  },
+  {
+    "Address": 0x58,
+    "Signature": "allowrun"
+  },
+  {
+    "Address": 0x740,
+    "Signature": "pflgs"
+  }		
 ]
 }
-
