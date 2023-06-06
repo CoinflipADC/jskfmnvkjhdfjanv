@@ -1,1 +1,36 @@
-
+{
+"ScriptMetadata": [
+   {
+      "Address": 99999999,
+      "Signature": "1"
+    },
+    {
+      "Address": 99999999,
+      "Signature": "2"
+    },
+    {
+      "Address": 99999999,
+      "Signature": "3"
+    },
+    {
+      "Address": 99999999,
+      "Signature": "4"
+    },
+    {
+      "Address": 99999999,
+      "Signature": "5"
+    },
+    {
+      "Address": 99999999,
+      "Signature": "6"
+    },
+    {
+      "Address": 99999999,
+      "Signature": "7"
+    },
+    {
+      "Address": 99999999,
+      "Signature": "8"
+    }
+]
+}
