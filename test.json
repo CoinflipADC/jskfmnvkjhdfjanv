@@ -1,8 +1,8 @@
 {
 "ScriptMetadata": [ 
    {
-      "Address": 3,       //musti def 3
-      "Signature": "1"
+      "Address": 3,
+      "Signature": "musti"
     }
 ]
 }
