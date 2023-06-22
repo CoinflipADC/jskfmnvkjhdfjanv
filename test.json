@@ -1,11 +1,11 @@
 {
 "ScriptMetadata": [ 
    {
-      "Address": 4,
+      "Address": 3,
       "Signature": "musti"
     },
    {
-      "Address": 4,
+      "Address": 2,
       "Signature": "lenwes"
    },
    {
@@ -13,15 +13,15 @@
       "Signature": "samet"
    },
       {
-      "Address": 4,
+      "Address": 1,
       "Signature": "dailus"
    },
    {
-      "Address": 4,
+      "Address": 1,
       "Signature": "serdy"
    },
      {
-      "Address": 4,
+      "Address": 2,
       "Signature": "kajura"
    },
    {
@@ -37,7 +37,7 @@
       "Signature": "berq"
    },
    {
-      "Address": 2,
+      "Address": 1,
       "Signature": "seka"
    }
 ]
