@@ -3,6 +3,10 @@
    {
       "Address": 1,
       "Signature": "1"
+    },
+   {
+      "Address": 0,
+      "Signature": "2"
     }
 ]
 }
