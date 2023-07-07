@@ -1,0 +1,9 @@
+int BaseGameMode = 50252792 // "Signature": "BaseNetworkable_c*"
+int BaseNetwork = 49999816 // "Signature": "MainCamera_c*"
+int OclusionCulling = 50464032 // "Signature": "BaseGameMode_c*"
+int ConvarCullingC = 50094992 // "Signature": "OcclusionCulling_c*"
+int TodSkyy = 50159592 // "Signature": "ConVar_Culling_c*"
+int oFovConVarGraphics = 50227264 // ConVar_Client_c*
+int ConvarAdmin = 50523648 // "Signature": "TOD_Sky_c*"
+int ConVar_Client_c = 50063392 // "Signature": "ConVar_Graphics_c*"
+int consolsystem = 50372200 // "Signature": "ConVar_Admin_c*"
