@@ -1,43 +1,43 @@
 {
 "ScriptMetadata": [
    {
-      "Address": 50252792,
+      "Address": 0,
       "Signature": "1"
     },
     {
-      "Address": 49999816,
+      "Address": 0,
       "Signature": "2"
     },
     {
-      "Address": 50464032,
+      "Address": 0,
       "Signature": "3"
     },
     {
-      "Address": 50094992,
+      "Address": 0,
       "Signature": "4"
     },
     {
-      "Address": 50159592,
+      "Address": 0,
       "Signature": "5"
     },
     {
-      "Address": 50227264,
+      "Address": 0,
       "Signature": "6"
     },
     {
-      "Address": 50523648,
+      "Address": 0,
       "Signature": "7"
     },
     {
-      "Address": 50063392,
+      "Address": 0,
       "Signature": "8"
     },
     {
-      "Address": 50372200,
+      "Address": 0,
       "Signature": "9"
     },
     {
-      "Address": 50397592,
+      "Address": 0,
       "Signature": "10"
     }
 ]
