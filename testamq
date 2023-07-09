@@ -1,4 +1,4 @@
-int BaseGameMode = 50252792 // "Signature": "BaseNetworkable_c*"
+int BaseGameMode = 50252792 // "Signature": "System_Collections_Generic_List_BaseGameMode__c*"
 int BaseNetwork = 49999816 // "Signature": "BaseNetworkable_c*"
 int OclusionCulling = 50464032 // "Signature": "OcclusionCulling_c*"
 int ConvarCullingC = 50094992 // "Signature": "ConVar_Culling_c*"
