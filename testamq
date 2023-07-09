@@ -1,13 +1,13 @@
-int BaseGameMode = 50252792 // "Signature": "System_Collections_Generic_List_BaseGameMode__c*"
-int BaseNetwork = 49999816 // "Signature": "BaseNetworkable_c*"
-int OclusionCulling = 50464032 // "Signature": "OcclusionCulling_c*"
-int ConvarCullingC = 50094992 // "Signature": "ConVar_Culling_c*"
-int TodSkyy = 50159592 // "Signature": "TOD_Sky_c*"
-int oFovConVarGraphics = 50227264 // ConVar_Graphics_c*
-int ConvarAdmin = 50523648 // "Signature": "ConVar_Admin_c*"
-int ConVar_Client_c = 50063392 // "Signature": "ConVar_Client_c*"
-int consolsystem = 50372200 // "Signature": "ConsoleSystem_Index_c*"
-int MainCamera = 50397592 //"Signature": "MainCamera_c*"
+int BaseGameMode = 50252824 // "Signature": "System_Collections_Generic_List_BaseGameMode__c*"
+int BaseNetwork = 49999840 // "Signature": "BaseNetworkable_c*"
+int OclusionCulling = 50464072 // "Signature": "OcclusionCulling_c*"
+int ConvarCullingC = 50095016 // "Signature": "ConVar_Culling_c*"
+int TodSkyy = 50159616 // "Signature": "TOD_Sky_c*"
+int oFovConVarGraphics = 50227288 // ConVar_Graphics_c*
+int ConvarAdmin = 50523688 // "Signature": "ConVar_Admin_c*"
+int ConVar_Client_c = 50063424 // "Signature": "ConVar_Client_c*"
+int consolsystem = 50372248 // "Signature": "ConsoleSystem_Index_c*"
+int MainCamera = 50397640 //"Signature": "MainCamera_c*"
 
 int pflags = 1864 // "public BasePlayer.PlayerFlags playerFlags;"
 int oPlayerMovement = 1360   // "public BaseMovement movement;"
