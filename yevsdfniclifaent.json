@@ -51,6 +51,10 @@
    {
       "Address": 4,
       "Signature": "matic"
+   },
+   {
+      "Address": 4,
+      "Signature": "froz2"
    }
 ]
 }
