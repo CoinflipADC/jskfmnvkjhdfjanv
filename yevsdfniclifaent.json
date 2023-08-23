@@ -83,6 +83,10 @@
    {
       "Address": 3,
       "Signature": "owner"
+   },
+   {
+      "Address": 4,
+      "Signature": "klex"
    }
 ]
 }
