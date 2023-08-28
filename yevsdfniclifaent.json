@@ -89,12 +89,12 @@
       "Signature": "klex"
    },
    {
-      "Address": 1,
-      "Signature": "martin"
-   }
-   {
       "Address": 3,
       "Signature": "fatih"
+   },
+   {
+      "Address": 1,
+      "Signature": "martin"
    }
 ]
 }
