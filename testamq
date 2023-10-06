@@ -6,7 +6,7 @@ int TodSkyy = 53690808 // "Signature": "TOD_Sky_c*"
 int oFovConVarGraphics = 53743944 // "Signature": "ConVar_Graphics_c*"
 int ConvarAdmin = 53451392 // "Signature": "ConVar_Admin_c*"
 int ConVar_Client_c = 53564544 // "Signature": "ConVar_Client_c*"
-int consolsystem = 53928208 // "Signature": "ConsoleSystem_Index_c*"
+int consolsystem = 53928288 // "Signature": "ConsoleSystem_Index_c*"
 int MainCamera = 53934704 //"Signature": "MainCamera_c*"
 
 int pflags = 2080 // "public BasePlayer.PlayerFlags playerFlags;"
