@@ -1,6 +1,6 @@
 int BaseGameMode = 53752584 // "Signature": "System_Collections_Generic_List_BaseGameMode__c*"
 int BaseNetwork = 53494480 // "Signature": "BaseNetworkable_c*"
-int OclusionCulling = 54013808 // "Signature": "OcclusionCulling_c*"
+int OclusionCulling = 54013888 // "Signature": "OcclusionCulling_c*"
 int ConvarCullingC = 53599376 // "Signature": "ConVar_Culling_c*"
 int TodSkyy = 53690808 // "Signature": "TOD_Sky_c*"
 int oFovConVarGraphics = 53743944 // "Signature": "ConVar_Graphics_c*"
