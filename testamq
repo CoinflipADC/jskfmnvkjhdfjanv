@@ -67,4 +67,4 @@ int sightAimConeScale = 852 // "private float sightAimConeScale;"
 int EntityRef = 1912 // "private EntityRef mounted;"
 int canWieldItems = 752 // "public bool canWieldItems;"
 int newVelocity = 476	//"private Vector3 newVelocity;"
-int ozelgunn = 1 //"ozelgun";
+int ozelgunn = 0 //"ozelgun";
