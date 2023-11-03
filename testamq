@@ -9,6 +9,7 @@ int ConVar_Client_c = 53796200 // "Signature": "ConVar_Client_c"
 int consolsystem = 54166320 // "Signature": "ConsoleSystem_Index_c"
 int MainCamera = 54172272 //"Signature": "MainCamera_c"
 
+
 int pflags = 2224 // "public BasePlayer.PlayerFlags playerFlags;"
 int oPlayerMovement = 1696   // "public BaseMovement movement;"
 int oActiveUID = 2000 // "private ItemId clActiveItem;"
