@@ -69,3 +69,4 @@ int EntityRef = 2056 // "private EntityRef mounted;"
 int canWieldItems = 784 // "public bool canWieldItems;"
 int newVelocity = 476	//"private Vector3 newVelocity;"
 int ozelgunn = 0 //"ozelgun";
+int visibleee = 0x22C // "internal bool visible;"
