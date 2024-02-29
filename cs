@@ -1,17 +1,18 @@
-uintptr_t m_iHealth = 0x334
-uintptr_t m_iMaxHealth = 0x330
-uintptr_t m_hPlayerPawn = 0x7E4
-uintptr_t m_sSanitizedPlayerName = 0x748
-uintptr_t m_vOldOrigin = 0x127C
-uintptr_t m_iTeamNum = 0x3CB
-uintptr_t m_bIsLocalPlayerController = 0x6C8
-uintptr_t m_bIsDefusing = 0x1408
-uintptr_t m_bSpottedByMask = 0x1618;
-uintptr_t m_bDormant = 0xE7
-uintptr_t m_angEyeAngles = 0x1578
-uintptr_t m_pClippingWeapon = 0x1308
-uintptr_t m_fFlags = 0x3D4
-uintptr_t m_flDetectedByEnemySensorTime = 0x1440
-uintptr_t m_flFlashMaxAlpha = 0x14C8
-uintptr_t m_aimPunchAngle = 0x177C
-uintptr_t m_bPawnIsAlive = 0x7EC
+m_iHealth: 820
+m_iMaxHealth: 816
+m_hPlayerPawn: 2020
+m_sSanitizedPlayerName: 1864
+m_vOldOrigin: 4732
+m_iTeamNum: 971
+m_bIsLocalPlayerController: 1736
+m_bIsDefusing: 5128
+m_bSpottedByMask: 5656
+m_bDormant: 231
+m_angEyeAngles: 5500
+m_pClippingWeapon: 4872
+m_fFlags: 980
+m_flDetectedByEnemySensorTime: 5184
+m_flFlashMaxAlpha: 5320
+m_aimPunchAngle: 6012
+m_bPawnIsAlive: 2028
+  
