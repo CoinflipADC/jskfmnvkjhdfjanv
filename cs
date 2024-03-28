@@ -3,7 +3,7 @@ m_entitySpottedState: 5784
 m_bSpotted: 8
 s_m_fFlags: 0
 
-dwEntityList: 0
+dwEntityList: 25963864
 dwForceAttack: 0
 dwForceAttack2: 0
 dwForceBackward: 0
@@ -12,26 +12,26 @@ dwForceForward: 0
 dwForceJump: 0
 dwForceLeft: 0
 dwForceRight: 0
-dwGameEntitySystem: 0
-dwGameEntitySystem_getHighestEntityIndex: 0
-dwGameRules: 0
-dwGlobalVars: 0
-dwGlowManager: 0
+dwGameEntitySystem: 27133840
+dwGameEntitySystem_getHighestEntityIndex: 5392
+dwGameRules: 26344608
+dwGlobalVars: 24292256
+dwGlowManager: 26345664
 dwInterfaceLinkList: 0
-dwLocalPlayerController: 0
-dwLocalPlayerPawn: 0
-dwPlantedC4: 0
-dwPrediction: 0
-dwSensitivity: 0
-dwSensitivity_sensitivity: 0
-dwViewAngles: 0
-dwViewMatrix: 0
-dwViewRender: 0
+dwLocalPlayerController: 26289528
+dwLocalPlayerPawn: 24342952
+dwPlantedC4: 26381016
+dwPrediction: 24342640
+dwSensitivity: 26348008
+dwSensitivity_sensitivity: 64
+dwViewAngles: 26413488
+dwViewMatrix: 26362272
+dwViewRender: 26364448
 
-m_iHealth: 0
-m_iMaxHealth: 0
-m_hPlayerPawn: 0
-m_sSanitizedPlayerName: 0
+m_iHealth: 820
+m_iMaxHealth: 700
+m_hPlayerPawn: 0  //m_iszPlayerName 
+m_sSanitizedPlayerName: 1592  //m_iszPlayerName
 m_vOldOrigin: 0
 m_iTeamNum: 0
 m_bIsLocalPlayerController: 0
