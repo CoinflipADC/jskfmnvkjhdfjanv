@@ -1,10 +1,7 @@
-m_flTimerLength: 3856
-m_flNextBeep: 3844
-m_flC4Blow: 3848
 bone: 480
-efevafd: 6
 m_entitySpottedState: 5784
 m_bSpotted: 8
+s_m_fFlags: 0
 
 dwEntityList: 0
 dwForceAttack: 0
@@ -47,19 +44,15 @@ m_flDetectedByEnemySensorTime: 0
 m_flFlashMaxAlpha: 0
 m_aimPunchAngle: 0
 m_bPawnIsAlive: 0
-s_m_fFlags: 0
-spottedmask: 0
-bspotted: 0
 
 m_vecMaxs = 0 // m_vecMaxs 
 m_vecMins = 0 // m_vecMins 
 m_pGameSceneNode = 0 //m_pGameSceneNode
 
-
-m_flTimerLength = 0 // m_flTimerLength  0xF10
-m_flNextBeep = 0 // m_flNextBeep 0xF04
-m_flC4Blow = 0  // m_flC4Blow 0xF08
-
-m_vecAbsOrigin = 0 //m_vecAbsOrigin 0xC8
+m_flTimerLength: 3856 // m_flTimerLength
+m_flNextBeep: 3844 // m_flNextBeep 
+m_flC4Blow: 3848  // m_flC4Blow
+  
+m_vecAbsOrigin: 0 //m_vecAbsOrigin
 
 
