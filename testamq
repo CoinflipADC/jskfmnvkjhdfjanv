@@ -11,7 +11,7 @@ int ConvarAdmin = 63418760 // "Signature": "ConVar_Admin_c*"
 int ConVar_Client_c = 63352320 // "Signature": "ConVar_Client_c*"
 
 int pflags = 2816 // "public BasePlayer.PlayerFlags playerFlags;"
-int oPlayerMovement = 2144   // "public BaseMovement movement;"
+int oPlayerMovement = 2264   // "public BaseMovement movement;"
 int oActiveUID = 2456 // "private ItemId clActiveItem;"
 int oPlayerInventory = 2712 // "public PlayerInventory inventory;"
 int oContainerBelt = 48 // "public ItemContainer containerBelt" //48 ex ------
