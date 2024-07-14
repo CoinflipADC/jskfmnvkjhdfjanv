@@ -111,4 +111,5 @@ int Convar_GraphicsStaticField = 184
 int Convar_GraphicsFOVPTR = 24
 int convaradminstaticfield = 184
 int convaradmindayfalse = 17
+int viewmatrixlast = 780
 
