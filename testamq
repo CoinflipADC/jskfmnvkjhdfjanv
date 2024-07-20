@@ -1,5 +1,5 @@
 int BaseGameMode = 87756880 // "Signature": "System_Collections_Generic_List_BaseGameMode__c*"
-int BaseNetwork = 88446368 // "Signature": "BaseNetworkable_c*"
+int BaseNetwork = 89544112 // "Signature": "BaseNetworkable_c*"
 int OclusionCulling = 88377528 // "Signature": "OcclusionCulling_c*"
 int TodSkyy = 87949288  // "Signature": "TOD_Sky_c*"
 int consolsystem = 88362072 // "Signature": "ConsoleSystem_Index_c*"
