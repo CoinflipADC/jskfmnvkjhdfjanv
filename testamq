@@ -10,7 +10,7 @@ int oFovConVarGraphics = 63394008 // "Signature": "ConVar_Graphics_c*"
 int ConvarAdmin = 63418760 // "Signature": "ConVar_Admin_c*"
 int ConVar_Client_c = 63352320 // "Signature": "ConVar_Client_c*"
 
-int pflags = 2880 // "public BasePlayer.PlayerFlags playerFlags;"  ++
+int pflags = 2856 // "public BasePlayer.PlayerFlags playerFlags;"  ++
 int oPlayerMovement = 2688   // "public BaseMovement movement;"   //ex 2264  ++
 int oActiveUID = 2456 // "private ItemId clActiveItem;"
 int oPlayerInventory = 2712 // "public PlayerInventory inventory;"
