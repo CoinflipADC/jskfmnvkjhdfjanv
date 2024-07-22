@@ -113,3 +113,13 @@ int convaradminstaticfield = 184
 int convaradmindayfalse = 17
 int viewmatrixlast = 780
 
+int networkoffset1 = 24;
+int networkoffset2 = 560145668;
+int networkoffset3 = 1681139071;
+int networkoffset4 = 27;
+int Il2cppGetHandle1 = 40;
+int Il2cppGetHandle2 = 90255152;
+int Il2cppGetHandle3 = 90255136;
+int Il2cppGetHandle4 = 31;
+int Il2cppGetHandle5 = 90255156;
+intIl2cppGetHandle6 = 90255144;
