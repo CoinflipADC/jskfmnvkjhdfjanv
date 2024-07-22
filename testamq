@@ -122,4 +122,4 @@ int Il2cppGetHandle2 = 90255152;
 int Il2cppGetHandle3 = 90255136;
 int Il2cppGetHandle4 = 31;
 int Il2cppGetHandle5 = 90255156;
-intIl2cppGetHandle6 = 90255144;
+int Il2cppGetHandle6 = 90255144;
