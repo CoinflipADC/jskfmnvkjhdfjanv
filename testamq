@@ -6,34 +6,14 @@ int consolsystem = 99788392 // "Signature": "ConsoleSystem_Index_c*"
 int MainCamera = 100069392 // "Signature": "MainCamera_c*"
 
 int ConvarCullingC = 100113496 // "Signature": "ConVar_Culling_c*"
-int oFovConVarGraphics = 63394008 // "Signature": "ConVar_Graphics_c*"
-int ConvarAdmin = 89414272  // "Signature": "ConVar_Admin_c*"
-int ConVar_Client_c = 89319232  // "Signature": "ConVar_Client_c*"
 
 int pflags = 2872 // "public BasePlayer.PlayerFlags playerFlags;"  ++
-int oPlayerMovement = 2552   // "public BaseMovement movement;"   //ex 2264  ++
-int oActiveUID = 2456 // "private ItemId clActiveItem;"
-int oPlayerInventory = 2712 // "public PlayerInventory inventory;"
-int oContainerBelt = 48 // "public ItemContainer containerBelt" //48 ex ------
-int oBeltContentList = 72   // "public List<Item> contents"  // 64 ex   ------
-int oHeld = 176  // "private EntityRef heldEntity"
-int oRecoilProperties = 784 // "public RecoilProperties recoil;" ++
-int oRecoilYawMin = 24 // "public float recoilYawMin;" ++
-int oRecoilYawMax = 28 // "public float recoilYawMax;" ++
-int oRecoilPitchMin = 32 // "public float recoilPitchMin;" ++
-int oRecoilPitchMax = 36 // "public float recoilPitchMax;" ++
-int oAimconeCurveScale = 96 // "public float aimconeCurveScale;" ++
-int oStancePenalty = 852 // "private float stancePenalty;"
-int oAimCone = 800  // "public float aimCone;" ++
-int oHipAimCone = 804  // "public float hipAimCone;" ++
-int oAimconePenaltyPerShot = 808 // "public float aimconePenaltyPerShot;" ++
-int oAutomatic = 704 // "public bool automatic;" // 664 ex ++
-int createdProjectiles = 936  //"private List<Projectile> createdProjectiles;"
-int Admintime = 248 // "public static float admintime;"
+int oPlayerMovement = 2720   // "public BaseMovement movement;"   //ex 2264  ++
+
 int capsuleHeight = 112 // "public float capsuleHeight" ++
 int capsuleCenter = 116 // "public float capsuleCenter" ++
-int groundAngle = 204 // "private float groundAngle;"
-int groundAngleNew = 208 // "private float groundAngleNew;" 
+int groundAngle = 212 // "private float groundAngle;"
+int groundAngleNew = 216 // "private float groundAngleNew;" 
 int oGravityMultiplier = 140 // "public float gravityMultiplier;" ++
 int omaxDistance = 712 // "public float maxDistance;" ++
 int oAttackRadius = 716 // "public float attackRadius;" ++
@@ -52,7 +32,7 @@ int PlayerModelVec3 = 464 // "internal Vector3 position;"
 int model1 = 200 // "public Model model;"
 int lifestate1 = 628  // "public BaseCombatEntity.LifeState lifestate;"
 int displayname = 2912  // "protected string _displayName;"
-int health = 636 // "protected float _health;" 
+int health = 644 // "protected float _health;" 
 int hdbone = 48 // "public Transform headBone;"
 int oName = 16 // "public string name;"
 int AllowRun = 96 // "public bool AllowRunFromServer;"
@@ -123,3 +103,28 @@ int Il2cppGetHandle3 = 90255136;
 int Il2cppGetHandle4 = 31;
 int Il2cppGetHandle5 = 90255156;
 int Il2cppGetHandle6 = 90255144;
+
+
+int oFovConVarGraphics = 63394008 // "Signature": "ConVar_Graphics_c*"
+int ConvarAdmin = 89414272  // "Signature": "ConVar_Admin_c*"
+int ConVar_Client_c = 89319232  // "Signature": "ConVar_Client_c*"
+
+
+int oActiveUID = 2456 // "private ItemId clActiveItem;"
+int oPlayerInventory = 2712 // "public PlayerInventory inventory;"
+int oContainerBelt = 48 // "public ItemContainer containerBelt" //48 ex ------
+int oBeltContentList = 72   // "public List<Item> contents"  // 64 ex   ------
+int oHeld = 176  // "private EntityRef heldEntity"
+int oRecoilProperties = 784 // "public RecoilProperties recoil;" ++
+int oRecoilYawMin = 24 // "public float recoilYawMin;" ++
+int oRecoilYawMax = 28 // "public float recoilYawMax;" ++
+int oRecoilPitchMin = 32 // "public float recoilPitchMin;" ++
+int oRecoilPitchMax = 36 // "public float recoilPitchMax;" ++
+int oAimconeCurveScale = 96 // "public float aimconeCurveScale;" ++
+int oStancePenalty = 852 // "private float stancePenalty;"
+int oAimCone = 800  // "public float aimCone;" ++
+int oHipAimCone = 804  // "public float hipAimCone;" ++
+int oAimconePenaltyPerShot = 808 // "public float aimconePenaltyPerShot;" ++
+int oAutomatic = 704 // "public bool automatic;" // 664 ex ++
+int createdProjectiles = 936  //"private List<Projectile> createdProjectiles;"
+int Admintime = 248 // "public static float admintime;"
