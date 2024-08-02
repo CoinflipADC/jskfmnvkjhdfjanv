@@ -110,7 +110,7 @@ int ConvarAdmin = 89414272  // "Signature": "ConVar_Admin_c*"
 int ConVar_Client_c = 89319232  // "Signature": "ConVar_Client_c*"
 
 
-int oActiveUID = 2456 // "private ItemId clActiveItem;"
+int oActiveUID = 2568 // "private ItemId clActiveItem;"
 int oPlayerInventory = 2712 // "public PlayerInventory inventory;"
 int oContainerBelt = 48 // "public ItemContainer containerBelt" //48 ex ------
 int oBeltContentList = 72   // "public List<Item> contents"  // 64 ex   ------
