@@ -50,7 +50,7 @@ int EntityRef = 2592 // "private EntityRef mounted;"
 int canWieldItems = 928 // "public bool canWieldItems;"
 int newVelocity = 500	//"private Vector3 newVelocity;"
 int ozelgunn = 0 //"ozelgun";
-int visibleee = 580 // "internal bool visible;"
+int visibleee = 288 // "internal bool visible;"
 
 int belt_contents_szoffset = 20
 int belt_contentsoffset = 16
