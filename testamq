@@ -31,7 +31,7 @@ int PlayerModelVec3 = 448 // "internal Vector3 position;"
 
 int model1 = 192 // "public Model model;"
 int lifestate1 = 628  // "public BaseCombatEntity.LifeState lifestate;"
-int displayname = 2912  // "protected string _displayName;"
+int displayname = 2944  // "protected string _displayName;"
 int health = 644 // "protected float _health;" 
 int hdbone = 48 // "public Transform headBone;"
 int oName = 16 // "public string name;"
