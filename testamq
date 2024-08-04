@@ -25,7 +25,7 @@ int oClientTeam = 2632 // "public PlayerTeam clientTeam;" //ex 2520 ++
 int oPlayerInput = 2920 // "public PlayerInput input;"  //ex 2256 ++
 int oBodyAngles = 68 // "private Vector3 bodyAngles;" 
 int oPlayerEyes = 3008 // "public PlayerEyes eyes;"
-int onewVelocity = 500 // "private Vector3 newVelocity"
+int onewVelocity = 484 // "private Vector3 newVelocity"
 int oPlayerModel = 2904    // "public PlayerModel playerModel;"
 int PlayerModelVec3 = 448 // "internal Vector3 position;"
 
