@@ -8,7 +8,7 @@ int MainCamera = 169988888 // "Signature": "MainCamera_c*"
 int ConvarCullingC = 100113496 // "Signature": "ConVar_Culling_c*"
 
 int pflags = 2680 // "public BasePlayer.PlayerFlags playerFlags;"  ++
-int oPlayerMovement = 2840    // "public BaseMovement movement;"   //ex 2264  ++
+int oPlayerMovement = 2872    // "public BaseMovement movement;"   //ex 2264  ++
 
 int capsuleHeight = 112 // "public float capsuleHeight" ++
 int capsuleCenter = 116 // "public float capsuleCenter" ++
@@ -41,8 +41,8 @@ int isLocalPlayer = 593 //"internal bool isLocalPlayer;"
 int userID = 2928 // "public ulong userID;"
 int PlayerTeam = 2520 // "public PlayerTeam clientTeam;"
 int primaryMagazine = 760 // "public BaseProjectile.Magazine primaryMagazine;"
-int aimSwaySpeed = 764 // "public float aimSwaySpeed;"
-int aimSway = 760 // "public float aimSway;"
+int aimSwaySpeed = 788 // "public float aimSwaySpeed;"
+int aimSway = 784 // "public float aimSway;"
 int successFraction = 960 // "public float successFraction;"
 int didSparkThisFrame = 976 // "private bool _didSparkThisFrame;"
 int sightAimConeScale = 864 // "private float sightAimConeScale;"
