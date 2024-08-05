@@ -1,9 +1,9 @@
-int BaseGameMode = 171655656 // "Signature": "System_Collections_Generic_List_BaseGameMode__c*"
-int BaseNetwork = 171612440 // "Signature": "BaseNetworkable_c*"
-int OclusionCulling = 171719752 // "Signature": "OcclusionCulling_c*"
-int TodSkyy = 171897304  // "Signature": "TOD_Sky_c*"
-int consolsystem = 171224480 // "Signature": "ConsoleSystem_Index_c*"
-int MainCamera = 171226272 // "Signature": "MainCamera_c*"
+int BaseGameMode = 169830152 // "Signature": "System_Collections_Generic_List_BaseGameMode__c*"
+int BaseNetwork = 169912904 // "Signature": "BaseNetworkable_c*"
+int OclusionCulling = 169516960 // "Signature": "OcclusionCulling_c*"
+int TodSkyy = 170253688  // "Signature": "TOD_Sky_c*"
+int consolsystem = 169662392 // "Signature": "ConsoleSystem_Index_c*"
+int MainCamera = 169988888 // "Signature": "MainCamera_c*"
 
 int ConvarCullingC = 100113496 // "Signature": "ConVar_Culling_c*"
 
