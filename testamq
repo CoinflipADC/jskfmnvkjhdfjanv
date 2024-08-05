@@ -7,7 +7,7 @@ int MainCamera = 169988888 // "Signature": "MainCamera_c*"
 
 int ConvarCullingC = 100113496 // "Signature": "ConVar_Culling_c*"
 
-int pflags = 2656 // "public BasePlayer.PlayerFlags playerFlags;"  ++
+int pflags = 2680 // "public BasePlayer.PlayerFlags playerFlags;"  ++
 int oPlayerMovement = 2840    // "public BaseMovement movement;"   //ex 2264  ++
 
 int capsuleHeight = 112 // "public float capsuleHeight" ++
