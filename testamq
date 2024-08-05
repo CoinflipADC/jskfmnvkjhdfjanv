@@ -27,7 +27,7 @@ int oBodyAngles = 68 // "private Vector3 bodyAngles;"
 int oPlayerEyes = 2720 // "public PlayerEyes eyes;"
 int onewVelocity = 484 // "private Vector3 newVelocity"
 int oPlayerModel = 2688    // "public PlayerModel playerModel;"
-int PlayerModelVec3 = 448 // "internal Vector3 position;"
+int PlayerModelVec3 = 464 // "internal Vector3 position;"
 
 int model1 = 192 // "public Model model;"
 int lifestate1 = 628  // "public BaseCombatEntity.LifeState lifestate;"
