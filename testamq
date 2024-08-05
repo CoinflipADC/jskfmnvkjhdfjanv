@@ -125,6 +125,6 @@ int oStancePenalty = 852 // "private float stancePenalty;"
 int oAimCone = 800  // "public float aimCone;" ++
 int oHipAimCone = 804  // "public float hipAimCone;" ++
 int oAimconePenaltyPerShot = 808 // "public float aimconePenaltyPerShot;" ++
-int oAutomatic = 712 // "public bool automatic;" // 664 ex ++
+int oAutomatic = 704 // "public bool automatic;" // 664 ex ++
 int createdProjectiles = 936  //"private List<Projectile> createdProjectiles;"
 int Admintime = 248 // "public static float admintime;"
