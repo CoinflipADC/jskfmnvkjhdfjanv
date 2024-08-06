@@ -5,7 +5,7 @@ int TodSkyy = 170253688  // "Signature": "TOD_Sky_c*"
 int consolsystem = 169662392 // "Signature": "ConsoleSystem_Index_c*"
 int MainCamera = 169988888 // "Signature": "MainCamera_c*"
 
-int ConvarCullingC = 100113496 // "Signature": "ConVar_Culling_c*"
+int ConvarCullingC = 169516928 // "Signature": "ConVar_Culling_c*"
 
 int pflags = 2680 // "public BasePlayer.PlayerFlags playerFlags;"  ++
 int oPlayerMovement = 2872    // "public BaseMovement movement;"   //ex 2264  ++
