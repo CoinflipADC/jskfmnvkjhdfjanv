@@ -21,7 +21,7 @@ int oisAutomatic = 720 // "public bool isAutomatic;" // 656 ex ++
 int oBlockSprintOnAttack = 721 // "public bool blockSprintOnAttack;" ++
 int oonlyThrowAsProjectile = 779 // "public bool onlyThrowAsProjectile;" ++
 int othrowReady = 776 // "private bool throwReady;"
-int oClientTeam = 2632 // "public PlayerTeam clientTeam;" //ex 2520 ++
+int oClientTeam = 2288 // "public PlayerTeam clientTeam;" //ex 2520 ++
 int oPlayerInput = 2904 // "public PlayerInput input;"  //ex 2256 ++
 int oBodyAngles = 68 // "private Vector3 bodyAngles;" 
 int oPlayerEyes = 2720 // "public PlayerEyes eyes;"
@@ -39,7 +39,7 @@ int AllowRun = 96 // "public bool AllowRunFromServer;"
 
 int isLocalPlayer = 593 //"internal bool isLocalPlayer;"
 int userID = 2928 // "public ulong userID;"
-int PlayerTeam = 2520 // "public PlayerTeam clientTeam;"
+int PlayerTeam = 2288 // "public PlayerTeam clientTeam;"
 int primaryMagazine = 760 // "public BaseProjectile.Magazine primaryMagazine;"
 int aimSwaySpeed = 788 // "public float aimSwaySpeed;"
 int aimSway = 784 // "public float aimSway;"
